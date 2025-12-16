@@ -77,7 +77,7 @@ const Home = () => {
           </h2>
         </main>
 
-        <section
+        {/* <section
           className="m-auto text-center img-container my-md-4 my-3"
           id="img-container"
         >
@@ -88,7 +88,7 @@ const Home = () => {
             width="550"
             alt="current-weather-status"
           />
-        </section>
+        </section> */}
 
         <br />
         <br />
