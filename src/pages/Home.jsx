@@ -72,6 +72,9 @@ const Home = () => {
           <h2 className="text-center text-capitalize m-auto fw-bold fs-2">
             How's today's weather?
           </h2>
+          <h2 className="text-center text-capitalize m-auto fw-bold fs-2">
+            How's today's weather?
+          </h2>
         </main>
 
         <section
